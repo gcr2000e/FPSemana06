@@ -4,5 +4,5 @@
 
 - .gitignore file
 - README.md file
-- calc_stack.py
-- queue_process.py
+- batalha.py
+- personagens.json
