@@ -1,6 +1,6 @@
-# Exercício Prático 3 - Fundamentos de Programação #
+# Exercício Prático 6 - Fundamentos de Programação #
 
-## Conteúdos do Repositório Git *"FPSemana03"* ##
+## Conteúdos do Repositório Git *"FPSemana06"* ##
 
 - .gitignore file
 - README.md file
